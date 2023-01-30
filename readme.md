@@ -9,7 +9,7 @@
 * Load the .prob2project file
 * Select the Machine MAbs (Abstraction)
 * Go to the verification reiter on the right
-* Select the (+) and click on "Model check" wait till the checking finishes
+* Select the "Mixed BF/DF.." model checking task
 * Go to "Visualisation" reiter on the top left, there got to "Graph Visualization" in the opening window go to "State Space projection expression."
 * Select "Example1"; ProB2 should now calculate and load the visualization
 
@@ -17,7 +17,7 @@
 * For Machine MAbs the trace described in the paper can be found in the left corner ("example2"); a click on it replays it.
 * Machine MAbs_helper contains the refined trace.
 * To redo the trace refinement, go to MAbs_helper, and select the recycle button on the bottom left. 
-* Choose "Refine Trace" in the drop-down menü
+* Choose "Refine Trace" in the drop-down menu
 * As origin set MAbs
 * As target set MAbs_helper
 * Check the box at the bottom.
