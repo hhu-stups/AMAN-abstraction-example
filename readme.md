@@ -12,6 +12,7 @@
 * Select the "Mixed BF/DF.." model checking task
 * Go to "Visualisation" reiter on the top left, there got to "Graph Visualization" in the opening window go to "State Space projection expression."
 * Select "Example1"; ProB2 should now calculate and load the visualization
+* The state space projection also contained in the files. Under the name "state_space_projection".
 
 ### Reproducing the Traces 
 * For Machine MAbs the trace described in the paper can be found in the left corner ("example2"); a click on it replays it.
