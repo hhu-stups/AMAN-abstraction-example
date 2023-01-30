@@ -25,5 +25,6 @@
 
 ### Model checking 
 * The model checking was run on Linux and a nightly version of ProBCLi
-*  Downloads/ProB/probcli --model-check -p OPERATION_REUSE full -pref_group model_check unlimited -p COMPRESSION TRUE -noass -memory -p TIME_OUT 5000 -p MAX_OPERATIONS 100000 -p MAX_INITIALISATIONS 100000 <FileName>
+* Example Command (insert your own path to probcli)
+  ```Downloads/ProB/probcli --model-check -p OPERATION_REUSE full -pref_group model_check unlimited -p COMPRESSION TRUE -noass -memory -p TIME_OUT 5000 -p MAX_OPERATIONS 100000 -p MAX_INITIALISATIONS 100000 <FileName> ```
 * MAbs and M9 were checked this way
